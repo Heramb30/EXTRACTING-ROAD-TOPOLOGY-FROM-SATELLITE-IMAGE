@@ -9,9 +9,7 @@
 
 <p align="center">
 	<strong>
-		<a href="https://drive.google.com/file/d/1A2OZsPJdHoHygQeAqDwPBMyf1xojDAg8/view?usp=sharing">Demo Video</a>
-		
-		
+		<a href="https://drive.google.com/file/d/1A2OZsPJdHoHygQeAqDwPBMyf1xojDAg8/view?usp=sharing">Demo Video</a>	
 	</strong>
 </p>
 
